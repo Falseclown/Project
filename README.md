@@ -77,7 +77,7 @@ npm run build
 │   │   │   ├── detail.vue                      // 加班休假列表详情页
 │   │   │   ├── history                         //审批历史   
 │   │   │   ├── item.vue                        //加班休假列表
-│   │   │   ├── tablemenu.vue                   // 0,1,2类型切换
+│   │   │   ├── tablemenu.vue                   //（0待处理）（1已发起）（2已处理）类型切换
 │   │   │   ├── tabletitle.vue                  //overtime/vacation切换
 │   │   │   └── todolist.vue                    // 列表公共组件
 │   │   ├── index.vue                           //主页组件
