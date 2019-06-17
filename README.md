@@ -1,5 +1,4 @@
-# Project
-starbucks
+# starbucks
 # 前言
 
 [README in English](README-en.md)
