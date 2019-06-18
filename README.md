@@ -67,7 +67,7 @@ npm run build
 │   │   ├── popup.vue                           // 发起申请遮罩组件
 │   │   ├── header.vue                          // 头部公共组件
 数据接口
-│   ├──api                                      //所有接口集合
+│   ├──api                                      //获取数据的统一调配文件，对接口进行统一管理
 
 │   ├───├──├─── 
 │   │   ├── commit
@@ -94,9 +94,6 @@ npm run build
 
 │   ├── router
 │   │   └── router.js                           // 路由配置
-│   ├── service                                 // 数据交互统一调配
-│   │   ├── getData.js                          // 获取数据的统一调配文件，对接口进行统一管理
-│   │   └── tempdata                            // 开发阶段的临时数据
 │   ├── store                                   // vuex的状态管理
 │   │   ├── index.js                            // 引用vuex，创建store
 │   │   ├── modules                             // store模块名式 
